@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="aopalliance">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/aopalliance.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/asm-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/aspectjweaver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/cglib-2.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/javassist-3.17.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/log4j-api-2.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/log4j-core-2.0-rc1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/mybatis-3.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/mybatis-spring-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/mysql-connector-java-5.1.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/slf4j-api-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/slf4j-log4j12-1.7.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/spring-aop-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/spring-beans-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/spring-context-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/spring-core-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/spring-expression-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/spring-jdbc-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/spring-tx-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/spring-web-4.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../SSM_ziliao/Spring/lib/standard-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
